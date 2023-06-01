@@ -13,7 +13,7 @@ initiatives to ensure every student in the state is Nipun (competent).
 ### Nipun Lakshya Android application
 
 The [Nipun Lakshya Android Application](https://play.google.com/store/apps/details?id=org.samagra.missionPrerna&hl=en_IN&gl=US)
-is used by parents, teachers, principals and mentors. With the app parents & teachers can help
+is used by parents, teachers, examiners and mentors. With the app parents & teachers can help
 students prepare for assessments. Mentors can perform assessments using the app.
 
 The application is predominantly written in Java with newer elements in Kotlin. The app extensively
