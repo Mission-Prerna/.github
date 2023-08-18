@@ -21,7 +21,7 @@ uses a modified version of ODK to collect data. The app uses Hasura for easier a
 some of our data elements. The app talks to our backend service for authentication and access
 control.
 
-Repository: https://github.com/Mission-Prerna/prerna-lakshya-app
+Repository: https://github.com/Mission-Prerna/Nipun-Lakshya-App
 
 ### Nipun Lakshya Backend Services
 
@@ -30,3 +30,5 @@ management, authentication & access control via SamagraX's
 opensource [user-service](https://github.com/Samagra-Development/user-service).
 
 Repository: https://github.com/Mission-Prerna/PrernaLakshyaBackend
+
+To easily deploy the backend system locally kindly refer: https://github.com/Mission-Prerna/sandbox-deployment
